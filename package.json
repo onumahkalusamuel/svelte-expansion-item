@@ -1,0 +1,20 @@
+{
+    "name": "svelte-expansion-item",
+    "version": "0.0.1",
+    "description": "A simple Expand/Collapse component for Svelte.",
+    "repository": "https://github.com/onumahkalusamuel/svelte-expansion-item",
+    "author": "Onumah Kalu Samuel",
+    "license": "MIT",
+    "keywords": [
+        "svelte-expansion-item",
+        "expansion-item",
+        "svelte expansion",
+        "svelte expansion item",
+        "expand collapse component in svelte",
+        "svelte"
+    ],
+    "main": "src/index.js",
+    "dependencies": {
+      "svelte": "3.x"
+    }
+}
